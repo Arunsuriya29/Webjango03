@@ -14,12 +14,12 @@ I'm a UI/UX Designer,Web Developer and Web Security Analysis . I like to work wi
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/fiverr/fiverr-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/upwork/upwork-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/freelancer/freelancer-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/freelancer/freelancer-icon.svg"></code>
 
 
 ## UI/UX Tools I work with
 
-<code><img height="50" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
 <code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/adobe-xd.svg"></code>
 <code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/adobe-photoshop-cc-seeklogo.com.svg"></code>
 

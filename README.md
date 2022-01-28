@@ -29,7 +29,7 @@ I'm a UI/UX Designer,Web Developer and Web Security Analysis . I like to work wi
 
 
 
-## Languages I work with
+## Technologies I work with
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
@@ -37,7 +37,16 @@ I'm a UI/UX Designer,Web Developer and Web Security Analysis . I like to work wi
 <code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/Bootstrap.png"></code>
 <code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/JavaScript.png"></code>
 <code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/Typescript.png"></code>
-<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/react"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
+<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/React_logo_wordmark.png"></code>
+<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/Git.png"></code>
+<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/npm.png"></code>
+<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/yarn.png"></code>
+<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/docker.png"></code>
+<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/nodejs.png"></code>
+<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/mongodb.png"></code>
+<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/nextjs.png"></code>
+<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/redux.png"></code>
+<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/GraphQL.png"></code>
+<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/MySQL.png"></code>
+<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/Java.png"></code>
+<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/Python.png"></code>

@@ -9,6 +9,9 @@
 ## About me 
 I'm a UI/UX Designer,Web Developer and Web Security Analysis . I like to work with Laravel, NodeJS and Python. I love Linux Kernel based OSs such as Ubuntu. I'm an freelancer in.
 
+## My Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Webjango03&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 ## I work with Freelancing Platform 
 

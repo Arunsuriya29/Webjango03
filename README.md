@@ -1,6 +1,6 @@
 # Webjango (Arun Prakash)
 
-[![Github](https://img.shields.io/github/followers/webjango03?label=Follow&style=social)](https://github.com/Webjango03)
+[![Github](https://img.shields.io/github/followers/Webjango03?style=social)](https://github.com/Webjango03)
 [![Linkedin](https://img.shields.io/badge/-Arun%20Prakash-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/arun-prakash-6b3b03203/)](https://www.linkedin.com/in/arun-prakash-6b3b03203/)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FCyberToxcy)](https://twitter.com/CyberToxcy)
 

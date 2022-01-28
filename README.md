@@ -23,11 +23,21 @@ I'm a UI/UX Designer,Web Developer and Web Security Analysis . I like to work wi
 ## UI/UX Tools I work with
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
-<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/adobe-xd.svg"></code>
-<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/adobe-photoshop-cc-seeklogo.com.svg"></code>
+<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/XD.png"></code>
+<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/Photoshop.png"></code>
 
 
-## Programming Languages I work with
+
+
+## Languages I work with
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
+<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/sass.png"></code>
+<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/Bootstrap.png"></code>
+<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/JavaScript.png"></code>
+<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/Typescript.png"></code>
+<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/react"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>

@@ -1,52 +1,36 @@
-# Webjango (Arun Prakash)
-
-[![Github](https://img.shields.io/github/followers/Webjango03?style=social)](https://github.com/Webjango03)
-[![Linkedin](https://img.shields.io/badge/-Arun%20Prakash-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/arun-prakash-6b3b03203/)](https://www.linkedin.com/in/arun-prakash-6b3b03203/)
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FCyberToxcy)](https://twitter.com/CyberToxcy)
+[![MasterHead](https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966)
+<h1 align="center">Hi 👋, I'm Webjango</h1>
+<h3 align="center">I’m Arunprakash, I am an experienced UI/UX Designer And Web Developer. I can create beautiful landing pages and mobiles applications, and can even do a prototype for your startup/business website.</h3>
 
 
-
-## About me 
-I'm a UI/UX Designer,Web Developer and Web Security Analysis . I like to work with Laravel, NodeJS and Python. I love Linux Kernel based OSs such as Ubuntu. I'm an freelancer in.
-
-## My Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Webjango03&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
-## I work with Freelancing Platform 
-
-<code><img height="50" src="https://www.vectorlogo.zone/logos/fiverr/fiverr-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/upwork/upwork-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/freelancer/freelancer-icon.svg"></code>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=webjango03&label=Profile%20views&color=0e75b6&style=flat" alt="webjango03" /> </p>
 
 
-## UI/UX Tools I work with
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-<code><img height="50" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
-<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/XD.png"></code>
-<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/Photoshop.png"></code>
+<p align="left"> <a href="https://twitter.com/@cybertoxcy" target="blank"><img src="https://img.shields.io/twitter/follow/@cybertoxcy?logo=twitter&style=for-the-badge" alt="@cybertoxcy" /></a> </p>
 
+- Portfolio Website using HTML & CSS [Devjane](https://github.com/Webjango03/Portfolio)
 
+- Landing Page using HTML & CSS [Mosh](https://github.com/Webjango03/project)
 
+- 💬 Ask me about **HTML,CSS,JS**
 
-## Technologies I work with
+- 📫 How to reach me **webjango03@gmail.com**
 
-<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
-<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/sass.png"></code>
-<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/Bootstrap.png"></code>
-<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/JavaScript.png"></code>
-<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/Typescript.png"></code>
-<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/React_logo_wordmark.png"></code>
-<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/Git.png"></code>
-<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/npm.png"></code>
-<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/yarn.png"></code>
-<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/docker.png"></code>
-<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/nodejs.png"></code>
-<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/mongodb.png"></code>
-<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/nextjs.png"></code>
-<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/redux.png"></code>
-<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/GraphQL.png"></code>
-<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/MySQL.png"></code>
-<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/Java.png"></code>
-<code><img height="50" src="https://github.com/Webjango03/Webjango03/blob/main/Asset/Python.png"></code>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@cybertoxcy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@cybertoxcy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arun-prakash-6b3b03203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arun-prakash-6b3b03203" height="30" width="40" /></a>
+<a href="https://dribbble.com/web_jango" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="web_jango" height="30" width="40" /></a>
+<a href="https://www.behance.net/arunprakash29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="arunprakash29" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=webjango03&show_icons=true&locale=en&layout=compact" alt="webjango03" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=webjango03&show_icons=true&locale=en" alt="webjango03" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webjango03&" alt="webjango03" /></p>
